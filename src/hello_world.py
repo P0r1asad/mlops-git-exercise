@@ -1,7 +1,7 @@
 class HelloWorld:
     @staticmethod
     def main():
-        print("Hello, World from GitHub and VS Code!")
+        print("Updated Hello world message :)")
 
 
 if __name__ == "__main__":
